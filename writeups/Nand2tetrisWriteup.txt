@@ -1,0 +1,6 @@
+Project 1:
+
+The course videos was easy to understand, the projects was first hard to understand, but i started to 
+think to do it then keep reading book to get better, i started to make my own elementary logic circuits
+Thought looking at other implementation was cheating, but in fact it wasn't. I will still share the
+failed attempts Implementation on this github.. Not sure of the name but yeah.

@@ -1,0 +1,27 @@
+September 2 2026
+
+I started this journal, should've started this 6 years ago but now im more mature to write about my
+Progress and Journal it to the people.
+
+Projects im working on:
+
+Course Project: Nand2tetris (project1)
+
+My Project: Decompression/compression Tool
+
+
+Lets first talk about Course Project, The project is to create my own Hardware description language 
+code for the 15 gates they asked for, actually 14 since "Nand" was already given. So far i created
+3 gates, Using Boolean expression, and my own Circuits. I didn't knew that I could use different 
+Implementation to write my own code, but yeah for Mux i've been Drawing Circuits, writing complex 
+Boolean expression for 1-2 week, i got so far that i just need to make a logic that changes 2 bits,
+and it will be a Mux gate. But i learned i can just use other implementation, since i worked on it so far
+i will just keep working, but use other implementation to complete this project. I will upload all the 
+gate circuits might as well upload Hardware description language Code.
+
+
+Now lets talk about my project,
+So far i learned alot about Compression algorithms and what i need to do it, im currently re-learning
+Linear Algebra, I just dont wanna create a File compression tool, but also and Image compression Tool too
+Since it will help me to make a better Tool that people can use or maybe I can use it again in my future
+projects. Im gonna use C to write the Code for this Tool. More about it in future logs.

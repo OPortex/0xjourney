@@ -1,0 +1,3 @@
+I Been working on Logic gates for a month+ now, I created my own implementation for Not, And, Or but
+Im currently working right now at Mux gate, Im following Nand2tetris course, Project1 which requires
+you to create 15 different logic gates. 
